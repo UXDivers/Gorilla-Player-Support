@@ -6,4 +6,4 @@ This is the public repository for Gorilla Player bugs, feature requests, support
 ![g3337](https://cloud.githubusercontent.com/assets/15996999/11622510/37291994-9ca5-11e5-9c8f-40028f30a8b5.png)
 
 
-[Gorilla Player, instant preview for Xamarin Forms](http://gorillaplayer.com)
+[Gorilla Player, Instant XAML preview for Xamarin Forms](http://gorillaplayer.com)
