@@ -8,5 +8,7 @@ Here our users can find useful info, request new features, fill bugs and ask for
 
 ![g3337](https://cloud.githubusercontent.com/assets/15996999/11622510/37291994-9ca5-11e5-9c8f-40028f30a8b5.png)
 
+Please, check our [Gorilla Wiki](https://github.com/UXDivers/Gorilla-Player-Support/wiki) for more information about the product and its usage.
+
 
 [Gorilla Player, Instant XAML preview for Xamarin Forms](http://gorillaplayer.com)
